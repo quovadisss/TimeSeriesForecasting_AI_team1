@@ -16,8 +16,15 @@ This project is to forecast long sequence time data on Stock Price. We also fore
 2) or you can just execute run.sh file.
 
 ## Plots(Example)
-- AMD Price in NASDAQ
+- AMD Price in NASDAQ 
+    - Forecasting 1 hour / 7 hours / 14 hours / 30 hours
+    - CNN
 ![AMD_CNN_type0](https://user-images.githubusercontent.com/56912449/121091205-9e96e880-c824-11eb-84ba-07106fe6433d.png)
+![AMD_CNN_type1](https://user-images.githubusercontent.com/56912449/121091629-444a5780-c825-11eb-8f5f-7bd011a04982.png)
+![AMD_CNN_type2](https://user-images.githubusercontent.com/56912449/121091661-4dd3bf80-c825-11eb-8f96-30eca7697073.png)
+![AMD_CNN_type3](https://user-images.githubusercontent.com/56912449/121091667-50361980-c825-11eb-946f-739554a13c52.png)
+    - S2S
+
 
 ## Reference
 - https://github.com/zhouhaoyi/Informer2020
