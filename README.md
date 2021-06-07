@@ -24,7 +24,15 @@ This project is to forecast long sequence time data on Stock Price. We also fore
 ![AMD_CNN_type2](https://user-images.githubusercontent.com/56912449/121091661-4dd3bf80-c825-11eb-8f96-30eca7697073.png)
 ![AMD_CNN_type3](https://user-images.githubusercontent.com/56912449/121091667-50361980-c825-11eb-946f-739554a13c52.png)
     - S2S
-
+![AMD_S2S_type0](https://user-images.githubusercontent.com/56912449/121091908-b1f68380-c825-11eb-8537-3b936e3529a4.png)
+![AMD_S2S_type1](https://user-images.githubusercontent.com/56912449/121091916-b4f17400-c825-11eb-89e3-3219defe1141.png)
+![AMD_S2S_type2](https://user-images.githubusercontent.com/56912449/121091923-b7ec6480-c825-11eb-92b6-9ad3d17f9080.png)
+![AMD_S2S_type3](https://user-images.githubusercontent.com/56912449/121091930-b9b62800-c825-11eb-953e-a61da607f8a5.png)
+    - Informer
+![AMD_informer_type0](https://user-images.githubusercontent.com/56912449/121091986-d7838d00-c825-11eb-8b48-206ff76fc8c2.png)
+![AMD_informer_type1](https://user-images.githubusercontent.com/56912449/121091989-d94d5080-c825-11eb-8ff1-31998eafd981.png)
+![AMD_informer_type2](https://user-images.githubusercontent.com/56912449/121091993-da7e7d80-c825-11eb-97f6-19a2bb3c56ae.png)
+![AMD_informer_type3](https://user-images.githubusercontent.com/56912449/121091995-da7e7d80-c825-11eb-96aa-947945a91845.png)
 
 ## Reference
 - https://github.com/zhouhaoyi/Informer2020
