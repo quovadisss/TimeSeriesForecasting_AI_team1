@@ -15,6 +15,10 @@ This project is to forecast long sequence time data on Stock Price. We also fore
 1) ```python main.py --model informer --gpu_id 0 --output_attention```
 2) or you can just execute run.sh file.
 
+## Plots(Example)
+- AMD Price in NASDAQ
+![AMD_CNN_type0](https://user-images.githubusercontent.com/56912449/121091205-9e96e880-c824-11eb-84ba-07106fe6433d.png)
+
 ## Reference
 - https://github.com/zhouhaoyi/Informer2020
 - https://github.com/lucidrains/linformer
