@@ -1,13 +1,13 @@
 # Long Sequence Time Forecasting(LSTF)
 
 ## Project explanation
-This project is to forecast long sequence time data on Stock Price. We also forecast Electricity Power Consumption to compare deep learning models. We built Informer for the main model and added Rinformer, Seq2Seq and CNN. We found that Informer is powerful to forecast long sequences compare to other models.
+This project is to forecast long sequence time data on Stock Price. We also forecast Electricity Power Consumption to compare deep learning models. We built Informer for the main model and added Linformer, Seq2Seq and CNN. We found that Informer is powerful to forecast long sequences compare to other models.
 
 ## Framework
 1) Preprocessing data for Stock Price and Electricity Power Consumption data.
 2) Spliting data into Train and Test set.
 3) Building Data Loaders.
-4) Building Models(Informer, Rinformer, Seq2Seq and CNN).
+4) Building Models(Informer, Linformer, Seq2Seq and CNN).
 5) Inference.
 6) Plotting all the results and finding insights.
 
@@ -33,6 +33,9 @@ This project is to forecast long sequence time data on Stock Price. We also fore
 ![AMD_informer_type1](https://user-images.githubusercontent.com/56912449/121091989-d94d5080-c825-11eb-8ff1-31998eafd981.png)
 ![AMD_informer_type2](https://user-images.githubusercontent.com/56912449/121091993-da7e7d80-c825-11eb-97f6-19a2bb3c56ae.png)
 ![AMD_informer_type3](https://user-images.githubusercontent.com/56912449/121091995-da7e7d80-c825-11eb-96aa-947945a91845.png)
+
+## Metric
+<img width="1170" alt="스크린샷 2021-06-08 오전 6 55 19" src="https://user-images.githubusercontent.com/56912449/121092458-87f19100-c826-11eb-8894-f3e8c486fbc4.png">
 
 ## Reference
 - https://github.com/zhouhaoyi/Informer2020
